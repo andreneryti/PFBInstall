@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/06 18:29:17.000.938,=C:\Users\nery\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/06 18:29:48.000.506,C:\Users\nery\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Davi\Pedidos\Software\UBloqueiaSysdba.dfm</Transaction>
+    <Transaction>2022/06/06 18:29:48.000.506,C:\Users\nery\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Davi\Pedidos\Software\UBloqueiaSysdba.pas</Transaction>
+    <Transaction>2022/06/06 18:29:57.000.169,C:\Users\nery\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Davi\Pedidos\Software\PBlockSysdba.dproj</Transaction>
+    <Transaction>2022/06/14 06:14:32.355,E:\PROJETOS\Kyrius\Software\PFbInstall\PFbInstall.dproj=E:\PROJETOS\Kyrius\Software\PFbInstall\PBlockSysdba.dproj</Transaction>
+    <Transaction>2022/06/14 06:14:52.402,E:\PROJETOS\Kyrius\Software\PFbInstall\UFbInstall.dfm=E:\PROJETOS\Kyrius\Software\PFbInstall\UBloqueiaSysdba.dfm</Transaction>
+    <Transaction>2022/06/14 06:14:52.402,E:\PROJETOS\Kyrius\Software\PFbInstall\UFbInstall.pas=E:\PROJETOS\Kyrius\Software\PFbInstall\UBloqueiaSysdba.pas</Transaction>
+  </Transactions>
+</BorlandProject>
